@@ -1,4 +1,4 @@
-# Data Analyst-Nanodegree Udacity-Project
+# Data Analyst-Nanodegree Udacity-Projects
 ## Summary about the projects
 
 ## Project1.[Exploring Weathr Trends](https://github.com/Nawaf-Alyousef/DAND-Project/tree/main/Project1_Exploring%20Weathr%20Trends)
